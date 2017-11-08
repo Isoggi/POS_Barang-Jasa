@@ -1,5 +1,7 @@
 **/bin
 **/obj
 *.suo
+*.csproj
+*.csproj.user
 App.config
 Web.config
